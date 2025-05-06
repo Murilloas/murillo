@@ -6,6 +6,7 @@ export default function Home() {
       <p>Cartório da Enseada, Palhoça-SC</p>
       <p style={{ marginTop: '1rem', color: '#555' }}>
         Contato: <a href="mailto:murillo@cartoriodaenseada.com.br">murillo@cartoriodaenseada.com.br</a>
+
       </p>
     </main>
   );
